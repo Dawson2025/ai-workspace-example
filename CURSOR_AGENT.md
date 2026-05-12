@@ -28,6 +28,8 @@ You are an agent at the **AI Workspace Example** entity — a teaching artifact 
 | User wants to add a new worked example or catalog entry | Load this 0AGNOSTIC.md + check `.0agnostic/01_knowledge/examples/` to avoid duplication |
 | User wants to spin up an intermediate / advanced sibling tier | Load this 0AGNOSTIC.md (read "Sibling Tiers" above) + the short-path canonical pattern doc at `.0agnostic/01_knowledge/entity_lifecycle/short_path_launchpad_breadcrumb_patterns.md` (root repo) |
 | Resuming work / new session | Load `.0agnostic/05_handoff_documents/` for latest handoff, then `.0agnostic/04_episodic_memory/` |
+| **New user / student asks "what should I do?" or "where do I start?"** | Read the "Start Here — for new users / students" section at the top of this file. It is the authoritative answer. Walk them through the 4 steps + ask them which coding agent and which customization surface they're trying to learn. |
+| Working in a specific stage / moving from one stage to the next | Read the corresponding `layer_1_group/layer_1_99_stages/stage_1_NN_*/README.md`. Stages are the workflow scaffold — use them to organize work, but stages can be empty if not in use. |
 
 ## Navigation
 
