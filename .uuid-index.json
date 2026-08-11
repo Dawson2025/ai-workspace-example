@@ -1,0 +1,14 @@
+{
+  "generated": "2026-06-10T02:17:52Z",
+  "uuids": {
+    "cf4d9dcb-a345-4e6f-8272-9a0b1d2c722f": {
+      "type": "entity",
+      "name": "short_ai_workspace_example",
+      "path": "."
+    }
+  },
+  "names": {
+    "short_ai_workspace_example": "cf4d9dcb-a345-4e6f-8272-9a0b1d2c722f"
+  },
+  "checksum": "sha256:93016b5642431670b067bc5084856d425c3afec390bed37116f034c82c28f732"
+}
